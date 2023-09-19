@@ -1,0 +1,8 @@
+{
+    "require": {
+        "guzzlehttp/guzzle": "^7.0",
+      "ext-curl": "*",
+      "ext-openssl": "*",
+      "ext-pdo": "*"
+    }
+}
